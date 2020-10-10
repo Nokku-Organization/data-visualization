@@ -1,6 +1,11 @@
-pricing etc can be discussed
 
-Quicksight -> Enterprse addition is a good use-case of big organizations .Because these organizations have multiple readers and few authors.
+Quicksight -> Enterprse addition is a good use-case of big organizations .Because these organizations have multiple readers and few authors. 
+
+#### Reason for opting for Enterprise edition:
+- Readers
+- Hourly refresh of SPICE data		 
+- Secure data encryption at rest
+- Email reports
 
 ### PRICE:
 #### Reader:
@@ -15,14 +20,14 @@ Quicksight -> Enterprse addition is a good use-case of big organizations .Becaus
     QuickSight users that are Authors receive unlimited email reports as part of their monthly subscription. Readers (per-user pricing model) are billed $0.30 (1 reader session) for each email report they receive, up to the monthly max charge of $5/reader. Each $0.30 charge for an email report also provides the user with credit for a QuickSight session within the calendar month that can be used at any time they log into their account. Readers will have unlimited access to both email reports and interactive dashboards after the monthly max charge of $5/reader.
     
 #### Author:
-    $18
-    /user/mo.
-    with annual subscription
+    $18  /user/mo. with annual subscription
 
     $24/user/mo. paying month to month
 
     10 GB/user of SPICE capacity
     $0.38/GB for additional capacity
+    
+    Note: Free trial authors (60 Days) in both standard and enterprise edition
   
   
 https://aws.amazon.com/quicksight/pricing/
