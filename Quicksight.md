@@ -31,3 +31,14 @@ Quicksight -> Enterprse addition is a good use-case of big organizations .Becaus
   
   
 https://aws.amazon.com/quicksight/pricing/
+
+
+- If you want to specify the source as s3-bucket, you need to specidy via manifest file as below:
+  someName.manifest:
+  {
+  "entries":[
+  {"url":"s3://<bucket-name>/<path>.csv","mandatory":true}
+  ]
+  }
+  
+  }
